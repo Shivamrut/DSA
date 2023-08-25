@@ -1,5 +1,4 @@
-
-
+package LinkedList;
 class MyLinkedList{
     private Node head;
     private int size;
