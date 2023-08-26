@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 import java.util.EmptyStackException;
 
-import javax.lang.model.type.NullType;
 
 public class ArrayListStack {
 
